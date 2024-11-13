@@ -12,7 +12,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using CRAI.Common;
-using CRAI.Logging;
+using CRAI.Common.Logging;
 using CRAI.NeuralNetwork;
 using CRAI.NeuralNetwork.Activation;
 using CRAI.NeuralNetwork.Algebra;

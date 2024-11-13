@@ -3,7 +3,7 @@
     Distributed under terms of the GPL3 license.
 */
 
-namespace CRAI.Logging
+namespace CRAI.Common.Logging
 {
     using System;
     using System.Collections.Generic;
