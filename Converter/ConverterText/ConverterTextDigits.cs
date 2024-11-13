@@ -10,9 +10,6 @@ namespace CRAI.Converter.ConverterText
     using System.Drawing;
     using System.Linq;
     using System.Text;
-    using AForge;
-    using AForge.Imaging;
-    using AForge.Imaging.Filters;
     using CRAI.Common;
     using CRAI.Converter.ConverterImage;
     using CRAI.NeuralNetwork;
